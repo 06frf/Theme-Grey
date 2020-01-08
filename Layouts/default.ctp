@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="<?= $theme_config['desc_site'] ?>">
-    <meta name="author" content="Antoine / Qually86">
+    <meta name="author" content="MineWeb">
 	
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:image" content="<?= $theme_config['image_site'] ?>"/>
@@ -40,7 +40,6 @@
 	<div class="sous-footer">
 		<div class="container-site">
 		tous droits réservés - Propulsé par <a href="https://www.mineweb.org">MineWeb</a><br>
-		Développé par Qually86
 		</div>
 	</div>
 </footer>
