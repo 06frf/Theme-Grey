@@ -40,7 +40,6 @@
 	<div class="sous-footer">
 		<div class="container-site">
 		tous droits réservés - Propulsé par <a href="https://www.mineweb.org">MineWeb</a><br>
-		Développé par Qually86
 		</div>
 	</div>
 </footer>
